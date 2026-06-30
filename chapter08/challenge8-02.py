@@ -1,4 +1,4 @@
 import cubed
 
-result = cubed.cube(10)
+result = cubed.cube_it(9)
 print(result)
